@@ -27,6 +27,5 @@ The system is designed to recommend personalized yoga routines based on the user
 - Fine-tune the model using additional training data.
 
 ## How to Run the Code
-1. Clone the repository: `git clone https://github.com/yourusername/mood-based-yoga-recommendation`
-2. Install the required libraries: `pip install -r requirements.txt`
-3. Run the notebook or Python script for sentiment analysis and yoga recommendation.
+1. Clone the repository: `git clone https://github.com/Shryy/Mood_base_yoga_recommendation.git`
+3. Run the notebook or Python script in colab for sentiment analysis and yoga recommendation.
